@@ -31,7 +31,7 @@ Agents are powered by two different LLM APIs:
 - Google Colab **or** any Jupyter Notebook
 - `GEMINI_API_KEY` from [Google AI Studio](https://makersuite.google.com/app/apikey)
 - `DEEPSEEK_API_KEY` from [DeepSeek Developer Console](https://platform.deepseek.com/)
-- (Optional) `OPENAI_API_KEY` if you want to switch to GPT-4
+- 
 
 ### 🛠️ Installation
 
