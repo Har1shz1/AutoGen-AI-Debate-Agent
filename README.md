@@ -1,5 +1,6 @@
 
-# 🤖 AI Debate: Electric Vehicles vs Fuel Cars (AutoGen Multi-Agent Chat)
+# 🤖 AutoGen AI Debate Agent :- Electric Vehicles vs Fuel Cars 
+
 
 This project demonstrates how to simulate a structured debate between two AI agents using [AutoGen](https://github.com/microsoft/autogen). The topic of the debate is:
 
