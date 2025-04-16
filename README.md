@@ -15,11 +15,11 @@ Agents are powered by two different LLM APIs:
 
 ## 🧠 What’s Inside
 
-- 🔁 Multi-agent setup using `AutoGen`
-- 🔌 Uses both **Gemini API** and **DeepSeek API**
-- 🧑‍⚖️ Judge agent enforces debate structure and declares the winner using `"That's enough!"`
-- 🧪 Supports retries and wait time to avoid rate-limit issues
-- 🖥️ Displays full debate transcript round-by-round
+-  Multi-agent setup using `AutoGen`
+-  Uses both **Gemini API** and **DeepSeek API**
+-  Judge agent enforces debate structure and declares the winner using `"That's enough!"`
+-  Supports retries and wait time to avoid rate-limit issues
+-  Displays full debate transcript round-by-round
 
 ---
 
