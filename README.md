@@ -3,7 +3,7 @@
 
 This project demonstrates how to simulate a structured debate between two AI agents using [AutoGen](https://github.com/microsoft/autogen). The topic of the debate is:
 
-> **Should Electric Vehicles (EVs) replace fuel-powered cars?**   
+> **Should Electric Vehicles (EVs) replace fuel-powered cars?**    
  
 Agents are powered by two different LLM APIs: 
 - `ev_advocate` (Gemini - Google) 
