@@ -7,7 +7,7 @@ This project demonstrates how to simulate a structured debate between two AI age
     
 Agents are powered by two different LLM APIs:   
 - `ev_advocate` (Gemini - Google)  
-- `fuel_defender` (DeepSeek Chat) 
+- `fuel_defender` (DeepSeek Chat)  
 - `judge_agent` moderates the discussion and declares the winner (Gemini)
 
 ---
