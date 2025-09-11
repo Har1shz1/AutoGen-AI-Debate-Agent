@@ -37,7 +37,7 @@ Agents are powered by two different LLM APIs:
 Install the required Python packages:
 
 ```bash
-pip install pyautogen
+pip install ag2
 pip install python-dotenv
 ```
 
